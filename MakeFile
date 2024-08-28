@@ -3,7 +3,7 @@ CXX = g++
 CXXFLAGS = -Wall -std=c++11
 
 # Target executable
-TARGET = point_program
+TARGET = main
 
 # Source files
 SRCS = main.cpp Point.cpp
