@@ -18,14 +18,10 @@ A Point class with driver code
 # How to Use the Makefile
 1. Build the Program: Run make in the terminal. This will compile the source files and create the point_program executable.
 ```
-sh
-Copy code
 make
 ```
 2. Clean the Build: Run make clean to remove the compiled object files (.o files) and the executable.
 ```
-sh
-Copy code
 make clean
 ```
 ## Makefile Breakdown:
